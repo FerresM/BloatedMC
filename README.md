@@ -1,6 +1,6 @@
 # BloatedMC
 1. BloatedCraft-v43.zip herunterladen
-   👉 [**Modpack ZIP direkt herunterladen (v1.0.0)**](https://github.com/FerresM/BloatedMC/releases/download/1.0.0/BloatedMC-1.0.0.zip)
+   👉 [**Modpack ZIP direkt herunterladen (v1.0.0)**](https://github.com/FerresM/BloatedMC/releases/download/1.0.0/BloatedCraft-v43.zip)
 3. CurseForge herunterladen (ggf. einrichten mit MC Account etc.)
 4. in CurseForge Minecraft auswählen und über "Import" die .zip-Datei auswählen
 
