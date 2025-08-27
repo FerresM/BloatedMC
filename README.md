@@ -1,8 +1,7 @@
 # OceanBlock
-1. OceanBlock.zip herunterladen
-   👉 [**Modpack ZIP direkt herunterladen (v1.0.0)**](https://github.com/FerresM/BloatedMC/releases/download/1.2.1/BloatedCraft-v43.zip)
-3. CurseForge herunterladen (ggf. einrichten mit MC Account etc.)👉 [**CurseForge herunterladen**](https://www.curseforge.com/)
-4. in CurseForge Minecraft auswählen und über "Import" die .zip-Datei auswählen
-
+1. CurseForge herunterladen (ggf. einrichten mit MC Account etc.)👉 [**CurseForge herunterladen**](https://www.curseforge.com/)
+2. In CurseForge nach "FTB OceanBlock 2" suchen und den "Play"-Button daneben klicken.
+3. Auf "My Modpacks" (oder halt was da auf deutsch steh) gehen und über das neu heruntergeladene Modpack gehen und "Play" anklicken.
+4. Nachdem das Game geladen ist auf "Multiplayer" und dann "Add Server". Server Adresse ist ferres.mcserver.us
 Done.
 
